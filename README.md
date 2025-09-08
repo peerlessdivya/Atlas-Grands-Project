@@ -35,4 +35,4 @@ This project provides **Business Intelligence & Data Analytics** insights to hel
 - `SQL/` – Data cleaning & queries (if added)  
 
 ---
-👩‍💻 Developed by **Divya Gupta**
+👩‍💻 Developed by **Divya Gupta(https://www.linkedin.com/in/divya-gupta-20bb16299/)**
