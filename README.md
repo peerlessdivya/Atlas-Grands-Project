@@ -31,8 +31,8 @@ This project provides **Business Intelligence & Data Analytics** insights to hel
 
 ## 📂 Project Files
 - `Atlas_Grands.pptx` – Project Presentation  
-- `PowerBI/` – Dashboards (if added)  
-- `SQL/` – Data cleaning & queries (if added)  
+- `PowerBI/` – Dashboards(https://app.powerbi.com/groups/me/reports/97c648db-b4c9-47e4-81f6-dc4bfc997df0/db9450299ceb0d9863f9?experience=power-bi) 
+- `SQL/` – Data cleaning & queries  
 
 ---
 👩‍💻 Developed by **Divya Gupta(https://www.linkedin.com/in/divya-gupta-20bb16299/)**
