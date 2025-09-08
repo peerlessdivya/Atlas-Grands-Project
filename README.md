@@ -12,7 +12,7 @@ This project provides **Business Intelligence & Data Analytics** insights to hel
 - Recommend business actions using BI dashboards  
 
 ## 🛠 Technology Stack
-- **SQL** – Data cleaning & transformation  
+- **SQL** – Data cleaning & transformation & SQL Queries  
 - **Excel** – Quick data analysis  
 - **Power BI** – Interactive dashboards & KPIs  
 - **PowerPoint** – Business context & recommendations  
